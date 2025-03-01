@@ -26,11 +26,6 @@ Run the Jupyter Notebook:
 ```bash
 jupyter notebook skin-cancer-detection.ipynb
 ```
-Or execute a Python script version:
-```bash
-python skin_cancer_detection.py
-```
-
 ## Dependencies
 To install required dependencies, use:
 ```bash
@@ -41,5 +36,5 @@ pip install -r requirements.txt
 The model achieves high accuracy in detecting melanoma. See the **Results & Evaluation** section in the notebook for detailed performance metrics.
 
 ## Author
-[Your Name]
+Ajay
 
