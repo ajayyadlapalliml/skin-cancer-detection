@@ -5,7 +5,7 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
 
 ## Dataset
 The dataset consists of labeled skin lesion images. If the dataset is too large, please download it from the original source:
-- **[Dataset Link (Kaggle/ISIC)](https://www.kaggle.com/datasets)**
+- **[Dataset Link (Kaggle/ISIC)](https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic)**
 
 ## Project Workflow
 1. **Data Preprocessing**: Load and preprocess images.
