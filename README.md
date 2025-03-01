@@ -16,7 +16,7 @@ The dataset consists of labeled skin lesion images. If the dataset is too large,
 ## Installation
 Clone this repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/skin-cancer-detection.git
+git clone https://github.com/ajayyadlapalliml/skin-cancer-detection.git
 cd skin-cancer-detection
 pip install -r requirements.txt
 ```
